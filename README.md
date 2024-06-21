@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Kavyagupta07
+- 👀 I’m interested in AI & Robotics 
+- 🌱 I’m currently learning CSE in AI&ML
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me (kg3512138@gmail.com)
+- ⚡ Fun fact: I haven't done any project yet 
